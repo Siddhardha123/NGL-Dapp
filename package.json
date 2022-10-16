@@ -16,6 +16,7 @@
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.0",
     "create-next-app": "^12.3.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1"
   }
 }
